@@ -1,2 +1,2 @@
 # BMI
-It's a bmi calculator.
+It's a simple console Program of Body Mass Index Calculator.
